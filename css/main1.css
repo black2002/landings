@@ -1,0 +1,60 @@
+.navbar {
+
+    background-color: #000000 !important;
+    height: 167px;
+
+    padding: 0;}
+
+
+.row {
+
+    margin-top: 240px;
+}
+.logo {
+    margin-left: 240px;
+}
+.right-side {
+    background-color: #333131;
+    height: 710px;
+}
+
+.right-side h2 {
+    margin-top: 200px;
+    color: white;
+}
+
+.right-side .green-word {
+    color: green;
+}
+
+.right-side .orange-word {
+    color: #d39e00;
+}
+
+.between {
+    border-left: 1px solid white;
+}
+
+.navbar-nav {
+    margin-left: 400px;
+}
+
+.navbar-nav a {
+
+    padding-right: 10px;
+}
+.navbar-brand {
+    color: yellow !important;
+    font-family: Verdana !important;
+    letter-spacing: 4px !important;
+}
+.navbar p {
+    color: white !important;
+    letter-spacing: 5px;
+
+}
+.row {
+
+    padding: 150px 50px;
+
+}

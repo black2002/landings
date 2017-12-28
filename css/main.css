@@ -1,0 +1,43 @@
+body {
+    background-image: url("../img/fur1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.ikea-logo {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+
+}
+.ikea-logo img {
+    height: auto;
+    width: auto;
+    max-height: 40px;
+    max-width: 120px;
+}
+.bottom-text {
+    color: white;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+
+}
+
+.price {
+    color: white;
+    width: 120px;
+    position: relative;
+    left: 1000px;
+    top: 350px;
+}
+
+.upper-logo {
+    position: absolute;
+    top: 30px;
+    left: 330px;
+
+}
+
+
