@@ -1,43 +1,40 @@
 body {
+    margin: 15px;
+}
+
+.left-col {
+    border: solid;
+    border-width: 1px;
+    height: 500px;
+    margin: 15px;
+
+}
+.nau {
+text-align: center;
+    color: #d39e00;
+
+}
+.left-bottom-image {
+    width: auto;
+    height: auto;
+    min-width: 350px;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: -15px;
+
+}
+.bottom-img{
+
     background-image: url("../img/fur1.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
-
-
-}
-.ikea-logo {
-    position: absolute;
-    right: 10px;
-    bottom: 10px;
-
-}
-.ikea-logo img {
-    height: auto;
-    width: auto;
-    max-height: 40px;
-    max-width: 120px;
-}
-.bottom-text {
-    color: white;
-    position: absolute;
-    left: 10px;
-    bottom: 10px;
-
 }
 
-.price {
-    color: white;
-    width: 120px;
-    position: relative;
-    left: 1000px;
-    top: 350px;
+.lrf{
+    margin: 15px;
 }
+.pic1 {
 
-.upper-logo {
-    position: absolute;
-    top: 30px;
-    left: 330px;
 
+    background-image: url("../img/fur1.jpg");
+    background-size: cover;
 }
-
-
